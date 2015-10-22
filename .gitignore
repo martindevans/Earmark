@@ -1,0 +1,17 @@
+*.suo
+*.user
+*.cachefile
+*.xnb
+*.sln.docstates
+*.cache
+*.pyc
+*.ncrunchproject
+*.ncrunchsolution
+_Resharper.*
+packages
+
+Earmark/bin
+Earmark/obj
+
+Earmark.Test/bin
+Earmark.Test/obj

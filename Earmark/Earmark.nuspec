@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>Martin Evans</authors>
+    <owners>Martin Evans</owners>
+    <licenseUrl>https://github.com/martindevans/Earmark/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/martindevans/Earmark</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+</package>
